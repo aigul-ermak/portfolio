@@ -1,0 +1,23 @@
+.mainFooter {
+    height: 100vh;
+    background-color: darkgray;
+}
+
+.container {
+    border: 1px solid;
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+    height: 100px;
+}

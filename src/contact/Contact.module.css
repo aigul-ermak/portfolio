@@ -1,0 +1,16 @@
+.mainContact {
+    height: 100vh;
+    background-color: fuchsia;
+}
+
+.container {
+    border: 1px solid;
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+

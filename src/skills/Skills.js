@@ -15,7 +15,6 @@ const Skills = () => {
                     <Skill title={"Typescript"} description={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, dolorem."}/>
                 </div>
             </div>
-
         </div>
     )
 }
