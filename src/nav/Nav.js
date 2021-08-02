@@ -4,7 +4,7 @@ import style from './Nav.module.css';
 
 const Nav = () => {
     return (
-        <div className={style.nav}>
+        <div className={style.navBlock}>
             <a href="">About me</a>
             <a href="">Award</a>
             <a href="">Education</a>

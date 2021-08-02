@@ -1,6 +1,10 @@
-.nav {
+.navBlock {
     border: 1px solid;
-    width: 500px;
+    width: 600px;
     display: flex;
     justify-content: space-between;
+}
+
+.navBlock a {
+    text-decoration: none;
 }

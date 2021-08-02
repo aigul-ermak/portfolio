@@ -1,4 +1,4 @@
-.skill {
+.skillBlock {
     width: 250px;
     /*min-height:300px;*/
     background-color: darkolivegreen;
@@ -6,7 +6,6 @@
     flex-direction: column;
     align-items: center;
     text-align: center;
-
 }
 
 .icon {

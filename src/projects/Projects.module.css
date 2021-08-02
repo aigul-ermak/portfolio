@@ -1,5 +1,5 @@
-.Works {
-    height: 100vh;
+.projectsBlock {
+    min-height: 100vh;
     background-color: #42b3ff;
     display: flex;
     flex-direction: column;
@@ -7,13 +7,16 @@
     text-align: center;
 }
 
-
-.myWorksContainer {
+.projectsContainer {
     flex-direction: column;
     justify-content: flex-start;
 }
 
-.worksItem {
+.projectsTitle {
+    background-color: fuchsia;
+}
+
+.projectItem {
     /*border: 1px solid;*/
     width: 100%;
     display: flex;

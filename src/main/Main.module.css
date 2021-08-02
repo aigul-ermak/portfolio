@@ -1,9 +1,9 @@
 .mainBlock {
-    height: 100vH;
+    height: 100vh;
     background-color: indianred;
 }
 
-.text {
+.mainText {
     width: 300px;
     background-color: aliceblue;
 }

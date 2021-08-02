@@ -1,15 +1,13 @@
 .remoteBlock {
-    height: 100vh;
-    background-color: yellow;
+    min-height: 100vh;
+    background-color: aliceblue;
 }
 
-.container {
-    border: 1px solid;
-    height: 100%;
-    width: 80%;
-    margin: 0 auto;
-    display: flex;
+.remoteContainer {
     flex-direction: column;
-    align-items: center;
-    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.remoteTitle {
+    background-color: blue;
 }

@@ -8,11 +8,16 @@ const Skills = () => {
     return (
         <div className={style.skillsBlock}>
             <div className={`${styleContainer.container} ${style.skillsContainer}`}>
-                <h2 className={style.title}>Skills</h2>
+                <h2 className={style.skillsTitle}>Skills</h2>
                 <div className={style.skills}>
-                    <Skill title={"JS"} description={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, dolorem."}/>
-                    <Skill title={"React"} description={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, dolorem."}/>
-                    <Skill title={"Typescript"} description={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, dolorem."}/>
+                    <Skill title={"JS"}
+                           description={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, dolorem."}/>
+                    <Skill title={"React"}
+                           description={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, dolorem."}/>
+                    <Skill title={"Typescript"}
+                           description={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, dolorem."}/>
+
+
                 </div>
             </div>
         </div>
