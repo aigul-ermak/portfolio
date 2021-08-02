@@ -1,6 +1,6 @@
 .contactBlock {
-    min-height: 100vh;
     background-color: fuchsia;
+    padding: 50px;
 }
 
 .contactContainer {

@@ -1,6 +1,6 @@
 .remoteBlock {
-    min-height: 100vh;
-    background-color: aliceblue;
+   background-color: aliceblue;
+    padding: 50px;
 }
 
 .remoteContainer {

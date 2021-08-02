@@ -1,18 +1,7 @@
 .footerBlock {
-    min-height: 100vh;
     background-color: darkgray;
+    padding: 50px;
 }
-
-/*.footerContainer {*/
-/*    border: 1px solid;*/
-/*    height: 100%;*/
-/*    width: 80%;*/
-/*    margin: 0 auto;*/
-/*    display: flex;*/
-/*    flex-direction: column;*/
-/*    align-items: center;*/
-
-/*}*/
 
 .footerContainer {
     flex-direction: column;
@@ -27,7 +16,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 250px;
+    width: 200px;
     height: 100px;
     background-color: yellow;
 }
